@@ -4,7 +4,7 @@ Fashionmnest data set consists of data from fashion industry. It contains 10 cla
 
 ## Description
 
-Convolutional Neural Network (CNN) is used to train the model.
+Fashionmnist is builtin dataset available in Keras. Here, Convolutional Neural Network (CNN) is used to train the model.
 
 **Training Accuracy:** 96%
 
